@@ -1,10 +1,10 @@
 #Features Description in Average_data.text
 
 ###First column "features".
-###Each value in the table means the average value of one of the features ###for each activity and each subject
-*tBodyAcc-XYZ
-*tGravityAcc-XYZ
-*tBodyAccJerk-XYZ
+Each value in the table means the average value of one of the features for each activity and each subject
++tBodyAcc-XYZ
++tGravityAcc-XYZ
++tBodyAccJerk-XYZ
 *tBodyGyro-XYZ
 *tBodyGyroJerk-XYZ
 *tBodyAccMag
@@ -24,7 +24,7 @@
 
 ###mean: Mean value
 ###std: Standard deviation
-##columns:2:7 which represent the activities
+###columns:2:7 which represent the activities
 *2 WALKING
 *3 WALKING_UPSTAIRS
 *4 WALKING_DOWNSTAIRS
